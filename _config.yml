@@ -1,7 +1,7 @@
-name: null
+name: danesanders
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.9989293050020933
+typography_spectrum: 0.9902338176034391
 cta:
   domain: null
   bucket: null
@@ -19,4 +19,5 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5933474288322031
 purpose: []
